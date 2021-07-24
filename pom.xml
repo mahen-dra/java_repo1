@@ -54,7 +54,6 @@
     </build>
     
     <distributionManagement>
-    <repositories>
     <repository>
       <releases>
         <enabled>false</enabled>
@@ -71,6 +70,5 @@
       <url>https://github.com/mahen-dra/java_repo1</url>
       <layout>default</layout>
     </repository>
-  </repositories>
   </distributionManagement>
 </project>
