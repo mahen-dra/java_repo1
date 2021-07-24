@@ -65,7 +65,7 @@
         <updatePolicy>never</updatePolicy>
         <checksumPolicy>fail</checksumPolicy>
       </snapshots>
-      <name>Nexus Snapshots</name>
+      <name>java_repo1</name>
       <id>java_repo1</id>
       <url>https://github.com/mahen-dra/java_repo1</url>
       <layout>default</layout>
