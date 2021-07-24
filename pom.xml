@@ -52,7 +52,8 @@
             </plugin>
         </plugins>
     </build>
-         
+    
+    <distributionManagement>
     <repositories>
     <repository>
       <releases>
@@ -71,4 +72,5 @@
       <layout>default</layout>
     </repository>
   </repositories>
+  </distributionManagement>
 </project>
