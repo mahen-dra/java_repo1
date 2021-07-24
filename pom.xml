@@ -67,6 +67,7 @@
       </snapshots>
       <name>Nexus Snapshots</name>
       <id>java_repo1</id>
+      <url>https://github.com/mahen-dra/java_repo1</url>
       <layout>default</layout>
     </repository>
   </repositories>
